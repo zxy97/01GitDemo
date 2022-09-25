@@ -1,6 +1,6 @@
 Hello Git! Hello atguigu! 22222
 Hello Git! Hello atguigu!
-Hello Git! Hello atguigu!
+Hello Git! Hello atguigu! hot-fix test
 Hello Git! Hello atguigu!
 Hello Git! Hello atguigu!
 Hello Git! Hello atguigu!
